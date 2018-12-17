@@ -1,0 +1,797 @@
+﻿Kode,Sumber,Bahaya
+A101a,Tidak Spesifik,1
+A102a,Tidak Spesifik,1
+A103a,Tidak Spesifik,1
+A104a,Tidak Spesifik,1
+A105a,Tidak Spesifik,1
+A106a,Tidak Spesifik,1
+A107a,Tidak Spesifik,1
+A108a,Tidak Spesifik,1
+A109a,Tidak Spesifik,1
+A110a,Tidak Spesifik,1
+A111a,Tidak Spesifik,1
+A112a,Tidak Spesifik,1
+A101b,Tidak Spesifik,1
+A102b,Tidak Spesifik,1
+A103b,Tidak Spesifik,1
+A104b,Tidak Spesifik,1
+A105b,Tidak Spesifik,1
+A106b,Tidak Spesifik,1
+A107b,Tidak Spesifik,1
+A108b,Tidak Spesifik,1
+A109b,Tidak Spesifik,1
+A110b,Tidak Spesifik,1
+A111b,Tidak Spesifik,1
+A112b,Tidak Spesifik,1
+A113b,Tidak Spesifik,1
+A114b,Tidak Spesifik,1
+A115b,Tidak Spesifik,1
+A116b,Tidak Spesifik,1
+A117b,Tidak Spesifik,1
+A118b,Tidak Spesifik,1
+A119b,Tidak Spesifik,1
+A120b,Tidak Spesifik,1
+A121b,Tidak Spesifik,1
+A101c,Tidak Spesifik,1
+A102c,Tidak Spesifik,1
+A103c,Tidak Spesifik,1
+A104c,Tidak Spesifik,1
+A105c,Tidak Spesifik,1
+A106c,Tidak Spesifik,1
+A107c,Tidak Spesifik,1
+A108c,Tidak Spesifik,1
+A109c,Tidak Spesifik,1
+A110c,Tidak Spesifik,1
+A101d,Tidak Spesifik,1
+A102d,Tidak Spesifik,1
+A103d,Tidak Spesifik,1
+A104d,Tidak Spesifik,1
+A105d,Tidak Spesifik,1
+A106d,Tidak Spesifik,1
+A107d,Tidak Spesifik,1
+A108d,Tidak Spesifik,1
+A109d,Tidak Spesifik,1
+A110d,Tidak Spesifik,1
+A111d,Tidak Spesifik,1
+B101d,Tidak Spesifik,2
+B102d,Tidak Spesifik,2
+B103d,Tidak Spesifik,2
+B104d,Tidak Spesifik,2
+B105d,Tidak Spesifik,2
+B106d,Tidak Spesifik,2
+B107d,Tidak Spesifik,2
+B108d,Tidak Spesifik,2
+B109d,Tidak Spesifik,2
+B110d,Tidak Spesifik,2
+A2001,?,1
+A2002,?,1
+A2003,?,1
+A2004,?,1
+A2005,?,1
+A2006,?,1
+A2007,?,1
+A2008,?,1
+A2009,?,1
+A2010,?,1
+A2011,?,1
+A2012,?,1
+A2013,?,1
+A2014,?,1
+A2015,?,1
+A2016,?,1
+A2017,?,1
+A2018,?,1
+A2019,?,1
+A2020,?,1
+A2021,?,1
+A2022,?,1
+A2023,?,1
+A2024,?,1
+A2025,?,1
+A2026,?,1
+A2027,?,1
+A2028,?,1
+A2029,?,1
+A2030,?,1
+A2031,?,1
+A2032,?,1
+A2033,?,1
+A2034,?,1
+A2035,?,1
+A2036,?,1
+A2037,?,1
+A2038,?,1
+A2039,?,1
+A2040,?,1
+A2041,?,1
+A2042,?,1
+A2043,?,1
+A2044,?,1
+A2045,?,1
+A2046,?,1
+A2047,?,1
+A2048,?,1
+A2049,?,1
+A2050,?,1
+A2051,?,1
+A2052,?,1
+A2053,?,1
+A2054,?,1
+A2055,?,1
+A2056,?,1
+A2057,?,1
+A2058,?,1
+A2059,?,1
+A2060,?,1
+A2061,?,1
+A2062,?,1
+A2063,?,1
+A2064,?,1
+A2065,?,1
+A2066,?,1
+A2067,?,1
+A2068,?,1
+A2069,?,1
+A2070,?,1
+A2071,?,1
+A2072,?,1
+A2073,?,1
+A2074,?,1
+A2075,?,1
+A2076,?,1
+A2077,?,1
+A2078,?,1
+A2079,?,1
+A2080,?,1
+A2081,?,1
+A2082,?,1
+A2083,?,1
+A2084,?,1
+A2085,?,1
+A2086,?,1
+A2087,?,1
+A2088,?,1
+A2089,?,1
+A2090,?,1
+A2091,?,1
+A2092,?,1
+A2093,?,1
+A2094,?,1
+A2095,?,1
+A2096,?,1
+A2097,?,1
+A2098,?,1
+A2099,?,1
+A2100,?,1
+A2101,?,1
+A2102,?,1
+A2103,?,1
+A2104,?,1
+A2105,?,1
+A2106,?,1
+A2107,?,1
+A2108,?,1
+A2109,?,1
+A2110,?,1
+A2111,?,1
+A2112,?,1
+A2113,?,1
+A2114,?,1
+A2115,?,1
+A2116,?,1
+A2117,?,1
+A2118,?,1
+A2119,?,1
+A2120,?,1
+A2121,?,1
+A2122,?,1
+A2123,?,1
+A2124,?,1
+A2125,?,1
+A2126,?,1
+A2127,?,1
+A2128,?,1
+A2129,?,1
+A2130,?,1
+A2131,?,1
+A2132,?,1
+A2133,?,1
+A2134,?,1
+A2135,?,1
+A2136,?,1
+A2137,?,1
+A2138,?,1
+A2139,?,1
+A2140,?,1
+A2141,?,1
+A2142,?,1
+A2143,?,1
+A2144,?,1
+A2145,?,1
+A2146,?,1
+A2147,?,1
+A2148,?,1
+A2149,?,1
+A2150,?,1
+A2151,?,1
+A2152,?,1
+A2153,?,1
+A2154,?,1
+A2155,?,1
+A2156,?,1
+A2157,?,1
+A2158,?,1
+A2159,?,1
+A2160,?,1
+A2161,?,1
+A2162,?,1
+A2163,?,1
+A2164,?,1
+A2165,?,1
+A2166,?,1
+A2167,?,1
+A2168,?,1
+A2169,?,1
+A2170,?,1
+A2171,?,1
+A2172,?,1
+A2173,?,1
+A2174,?,1
+A2175,?,1
+A2176,?,1
+A2177,?,1
+A2178,?,1
+A2179,?,1
+A2180,?,1
+A2181,?,1
+A2182,?,1
+A2183,?,1
+A2184,?,1
+A2185,?,1
+A2186,?,1
+A2187,?,1
+A2188,?,1
+A2189,?,1
+A2190,?,1
+A2191,?,1
+A2192,?,1
+A2193,?,1
+A2194,?,1
+A2195,?,1
+A2196,?,1
+A2197,?,1
+A2198,?,1
+A2199,?,1
+A2200,?,1
+A2201,?,1
+A2202,?,1
+A2203,?,1
+A2204,?,1
+A2205,?,1
+A2206,?,1
+A2207,?,1
+A2208,?,1
+A2209,?,1
+A2210,?,1
+A2211,?,1
+A2212,?,1
+A2213,?,1
+A2214,?,1
+A2215,?,1
+A2216,?,1
+A2217,?,1
+A2218,?,1
+A2219,?,1
+A2220,?,1
+A2221,?,1
+A2222,?,1
+A2223,?,1
+A2224,?,1
+A2225,?,1
+A2226,?,1
+A2227,?,1
+A2228,?,1
+A2229,?,1
+A2230,?,1
+A2231,?,1
+A2232,?,1
+A2233,?,1
+A2234,?,1
+A2235,?,1
+A2236,?,1
+A2237,?,1
+A2238,?,1
+A2239,?,1
+A2240,?,1
+A2241,?,1
+A2242,?,1
+A2243,?,1
+A2244,?,1
+A2245,?,1
+A2246,?,1
+A2247,?,1
+A2248,?,1
+A2249,?,1
+A2250,?,1
+A2251,?,1
+A2252,?,1
+A2253,?,1
+A2254,?,1
+A2255,?,1
+A2256,?,1
+A2257,?,1
+A2258,?,1
+A2259,?,1
+A2260,?,1
+A2261,?,1
+A2262,?,1
+A2263,?,1
+A2264,?,1
+A2265,?,1
+A2266,?,1
+A2267,?,1
+A2268,?,1
+A2269,?,1
+A2270,?,1
+A2271,?,1
+A2272,?,1
+A2273,?,1
+A2274,?,1
+A2275,?,1
+A2276,?,1
+A2277,?,1
+A2278,?,1
+A2279,?,1
+A2280,?,1
+A2281,?,1
+A2282,?,1
+A2283,?,1
+A2284,?,1
+A2285,?,1
+A2286,?,1
+A2287,?,1
+A2288,?,1
+A2289,?,1
+A2290,?,1
+A2291,?,1
+A2292,?,1
+A2293,?,1
+A2294,?,1
+A2295,?,1
+A2296,?,1
+A2297,?,1
+A2298,?,1
+A2299,?,1
+A2300,?,1
+A2301,?,1
+A2302,?,1
+A2303,?,1
+A2304,?,1
+A2305,?,1
+A2306,?,1
+A2307,?,1
+A2308,?,1
+A2309,?,1
+A2310,?,1
+A2311,?,1
+A2312,?,1
+A2313,?,1
+A2314,?,1
+A2315,?,1
+A2316,?,1
+A2317,?,1
+A2318,?,1
+A2319,?,1
+A2320,?,1
+A2321,?,1
+A2322,?,1
+A2323,?,1
+A2324,?,1
+A2325,?,1
+A2326,?,1
+A2327,?,1
+A2328,?,1
+A2329,?,1
+A2330,?,1
+A2331,?,1
+A2332,?,1
+A2333,?,1
+A2334,?,1
+A2335,?,1
+A2336,?,1
+A2337,?,1
+A2338,?,1
+A2339,?,1
+A2340,?,1
+A2341,?,1
+A2342,?,1
+A2343,?,1
+A2344,?,1
+A2345,?,1
+A2346,?,1
+A2347,?,1
+A2348,?,1
+A2349,?,1
+A2350,?,1
+A2351,?,1
+A2352,?,1
+A2353,?,1
+A2354,?,1
+A2355,?,1
+A2356,?,1
+A2357,?,1
+A2358,?,1
+A2359,?,1
+A2360,?,1
+A2361,?,1
+A2362,?,1
+A2363,?,1
+A2364,?,1
+A2365,?,1
+A2366,?,1
+A2367,?,1
+A2368,?,1
+A2369,?,1
+A2370,?,1
+A2371,?,1
+A2372,?,1
+A2373,?,1
+A2374,?,1
+A2375,?,1
+A2376,?,1
+B301-1,Spesifik Umum,2
+B301-2,Spesifik Umum,2
+B301-3,Spesifik Umum,2
+B301-4,Spesifik Umum,2
+B301-5,Spesifik Umum,2
+B301-6,Spesifik Umum,2
+B301-7,Spesifik Umum,2
+A302-1,Spesifik Umum,1
+A302-2,Spesifik Umum,1
+A302-3,Spesifik Umum,1
+A302-4,Spesifik Umum,1
+A302-5,Spesifik Umum,1
+A302-6,Spesifik Umum,1
+A302-7,Spesifik Umum,1
+A302-8,Spesifik Umum,1
+A302-9,Spesifik Umum,1
+A302-10,Spesifik Umum,1
+B302-1,Spesifik Umum,2
+B302-2,Spesifik Umum,2
+B302-3,Spesifik Umum,2
+A303-1,Spesifik Umum,1
+A303-2,Spesifik Umum,1
+A303-3,Spesifik Umum,1
+A303-4,Spesifik Umum,1
+A303-5,Spesifik Umum,1
+A303-6,Spesifik Umum,1
+A304-1,Spesifik Umum,1
+A304-2,Spesifik Umum,1
+A304-3,Spesifik Umum,1
+A304-4,Spesifik Umum,1
+A304-5,Spesifik Umum,1
+A304-6,Spesifik Umum,1
+B304-1,Spesifik Umum,2
+B304-2,Spesifik Umum,2
+A305-1,Spesifik Umum,1
+A305-2,Spesifik Umum,1
+A305-3,Spesifik Umum,1
+A305-4,Spesifik Umum,1
+A305-5,Spesifik Umum,1
+B305-1,Spesifik Umum,2
+B305-2,Spesifik Umum,2
+B305-3,Spesifik Umum,2
+B305-4,Spesifik Umum,2
+B305-5,Spesifik Umum,2
+A306-1,Spesifik Umum,1
+A306-2,Spesifik Umum,1
+A306-3,Spesifik Umum,1
+B306-1,Spesifik Umum,2
+B306-2,Spesifik Umum,2
+B306-3,Spesifik Umum,2
+B306-4,Spesifik Umum,2
+A307-1,Spesifik Umum,1
+A307-2,Spesifik Umum,1
+A307-3,Spesifik Umum,2
+B307-1,Spesifik Umum,2
+B307-2,Spesifik Umum,2
+B307-3,Spesifik Umum,2
+B307-4,Spesifik Umum,2
+A308-1,Spesifik Umum,1
+A308-2,Spesifik Umum,1
+B308-1,Spesifik Umum,2
+B308-2,Spesifik Umum,2
+A309-1,Spesifik Umum,1
+A309-2,Spesifik Umum,1
+A309-3,Spesifik Umum,1
+A309-4,Spesifik Umum,1
+A309-5,Spesifik Umum,1
+A309-6,Spesifik Umum,1
+A309-7,Spesifik Umum,1
+B309-1,Spesifik Umum,2
+B309-2,Spesifik Umum,2
+B309-3,Spesifik Umum,2
+B309-4,Spesifik Umum,2
+B309-5,Spesifik Umum,2
+A310-1,Spesifik Umum,1
+A310-2,Spesifik Umum,1
+A310-3,Spesifik Umum,1
+A310-4,Spesifik Umum,1
+A310-5,Spesifik Umum,1
+B310-1,Spesifik Umum,2
+A311-1,Spesifik Umum,1
+A311-2,Spesifik Umum,1
+A311-3,Spesifik Umum,1
+A311-4,Spesifik Umum,1
+A311-5,Spesifik Umum,1
+A311-6,Spesifik Umum,1
+B311-1,Spesifik Umum,2
+B311-2,Spesifik Umum,2
+A312-1,Spesifik Umum,1
+A312-2,Spesifik Umum,1
+A312-3,Spesifik Umum,1
+A312-4,Spesifik Umum,1
+B312-1,Spesifik Umum,2
+B312-2,Spesifik Umum,2
+B312-3,Spesifik Umum,2
+B312-4,Spesifik Umum,2
+B312-5,Spesifik Umum,2
+A313-1,Spesifik Umum,1
+A313-2,Spesifik Umum,1
+A313-3,Spesifik Umum,
+A313-4,Spesifik Umum,1
+B313-1,Spesifik Umum,2
+B313-2,Spesifik Umum,2
+B313-3,Spesifik Umum,2
+B313-4,Spesifik Umum,2
+B313-5,Spesifik Umum,2
+B313-6,Spesifik Umum,2
+B313-7,Spesifik Umum,2
+B313-8,Spesifik Umum,2
+A314-1,Spesifik Umum,1
+A314-2,Spesifik Umum,1
+A314-3,Spesifik Umum,1
+B314-1,Spesifik Umum,2
+B314-2,Spesifik Umum,2
+B314-3,Spesifik Umum,2
+B314-4,Spesifik Umum,2
+B314-5,Spesifik Umum,2
+A315-1,Spesifik Umum,1
+B315-1,Spesifik Umum,2
+B315-2,Spesifik Umum,2
+A316-1,Spesifik Umum,1
+B316-1,Spesifik Umum,2
+B316-2,Spesifik Umum,2
+B316-3,Spesifik Umum,2
+B316-4,Spesifik Umum,2
+B316-5,Spesifik Umum,2
+A317-1,Spesifik Umum,1
+A317-2,Spesifik Umum,1
+A317-3,Spesifik Umum,1
+A317-4,Spesifik Umum,1
+B317-1,Spesifik Umum,2
+B317-2,Spesifik Umum,2
+B317-3,Spesifik Umum,2
+A318-1,Spesifik Umum,1
+A318-2,Spesifik Umum,1
+A318-3,Spesifik Umum,1
+A318-4,Spesifik Umum,1
+A318-5,Spesifik Umum,1
+A318-6,Spesifik Umum,1
+A319-1,Spesifik Umum,1
+B319-1,Spesifik Umum,2
+B319-2,Spesifik Umum,2
+A320-1,Spesifik Umum,1
+B320-1,Spesifik Umum,2
+B320-2,Spesifik Umum,2
+B321-1,Spesifik Umum,2
+B321-2,Spesifik Umum,2
+B321-3,Spesifik Umum,2
+B321-4,Spesifik Umum,2
+B321-5,Spesifik Umum,2
+B321-6,Spesifik Umum,2
+B321-7,Spesifik Umum,2
+B321-8,Spesifik Umum,2
+A322-1,Spesifik Umum,1
+A322-2,Spesifik Umum,1
+A322-3,Spesifik Umum,1
+B322-1,Spesifik Umum,2
+B322-2,Spesifik Umum,2
+B322-3,Spesifik Umum,2
+A323-1,Spesifik Umum,1
+A323-2,Spesifik Umum,1
+A323-3,Spesifik Umum,1
+B323-1,Spesifik Umum,2
+B323-2,Spesifik Umum,2
+B323-3,Spesifik Umum,2
+B323-4,Spesifik Umum,2
+B323-5,Spesifik Umum,2
+A324-1,Spesifik Umum,1
+A324-2,Spesifik Umum,1
+A324-3,Spesifik Umum,1
+A324-5,Spesifik Umum,1
+A324-6,Spesifik Umum,1
+A324-7,Spesifik Umum,1
+A324-8,Spesifik Umum,1
+B324-1,Spesifik Umum,2
+B324-2,Spesifik Umum,2
+B324-3,Spesifik Umum,2
+A325-1,Spesifik Umum,1
+A325-2,Spesifik Umum,1
+A325-3,Spesifik Umum,1
+A325-4,Spesifik Umum,1
+A325-5,Spesifik Umum,1
+A325-6,Spesifik Umum,1
+A325-7,Spesifik Umum,1
+B325-1,Spesifik Umum,2
+B325-2,Spesifik Umum,2
+A326-1,Spesifik Umum,1
+A326-2,Spesifik Umum,1
+A326-3,Spesifik Umum,1
+A326-4,Spesifik Umum,1
+B326-1,Spesifik Umum,2
+B326-2,Spesifik Umum,2
+B326-3,Spesifik Umum,2
+A327-1,Spesifik Umum,1
+A327-2,Spesifik Umum,1
+A327-3,Spesifik Umum,1
+A327-4,Spesifik Umum,1
+A227-5,Spesifik Umum,1
+B327-1,Spesifik Umum,2
+B327-2,Spesifik Umum,2
+B327-3,Spesifik Umum,2
+B327-4,Spesifik Umum,2
+B327-5,Spesifik Umum,2
+A328-1,Spesifik Umum,1
+A328-2,Spesifik Umum,1
+A328-3,Spesifik Umum,1
+A328-4,Spesifik Umum,1
+A328-5,Spesifik Umum,1
+B328-1,Spesifik Umum,2
+B328-2,Spesifik Umum,2
+B328-3,Spesifik Umum,2
+B328-4,Spesifik Umum,2
+B328-5,Spesifik Umum,2
+B328-6,Spesifik Umum,2
+A329-1,Spesifik Umum,1
+A329-2,Spesifik Umum,1
+A329-3,Spesifik Umum,1
+A329-4,Spesifik Umum,1
+A329-5,Spesifik Umum,1
+A329-6,Spesifik Umum,1
+B329-1,Spesifik Umum,2
+B329-2,Spesifik Umum,2
+B329-3,Spesifik Umum,2
+B329-4,Spesifik Umum,2
+B329-5,Spesifik Umum,2
+A330-1,Spesifik Umum,1
+A330-2,Spesifik Umum,1
+B330-1,Spesifik Umum,2
+B330-2,Spesifik Umum,2
+B330-3,Spesifik Umum,2
+B330-4,Spesifik Umum,2
+A331-1,Spesifik Umum,1
+A331-2,Spesifik Umum,1
+B331-1,Spesifik Umum,2
+B331-2,Spesifik Umum,2
+B231-3,Spesifik Umum,2
+A332-1,Spesifik Umum,1
+B332-1,Spesifik Umum,2
+B332-2,Spesifik Umum,2
+B333-1,Spesifik Umum,2
+B333-2,Spesifik Umum,2
+B333-3,Spesifik Umum,2
+A334-1,Spesifik Umum,1
+A334-2,Spesifik Umum,1
+A334-3,Spesifik Umum,1
+B334-1,Spesifik Umum,2
+B334-2,Spesifik Umum,2
+B334-3,Spesifik Umum,2
+A335-1,Spesifik Umum,1
+A335-2,Spesifik Umum,1
+A335-3,Spesifik Umum,1
+B335-1,Spesifik Umum,2
+B335-2,Spesifik Umum,2
+A336-1,Spesifik Umum,1
+A336-2,Spesifik Umum,1
+A336-3,Spesifik Umum,1
+A336-4,Spesifik Umum,1
+A336-5,Spesifik Umum,1
+B336-1,Spesifik Umum,2
+B336-2,Spesifik Umum,2
+A337-1,Spesifik Umum,1
+A337-2,Spesifik Umum,1
+A337-3,Spesifik Umum,1
+A337-4,Spesifik Umum,1
+A337-5,Spesifik Umum,1
+B337-1,Spesifik Umum,2
+B337-2,Spesifik Umum,2
+A338-1,Spesifik Umum,1
+A338-2,Spesifik Umum,1
+A338-3,Spesifik Umum,1
+A338-4,Spesifik Umum,1
+A339-1,Spesifik Umum,1
+B339-1,Spesifik Umum,2
+B339-2,Spesifik Umum,2
+A340-1,Spesifik Umum,1
+A340-2,Spesifik Umum,1
+B340-1,Spesifik Umum,2
+B340-2,Spesifik Umum,2
+A341-1,Spesifik Umum,1
+A341-2,Spesifik Umum,1
+A341-3,Spesifik Umum,1
+B341-1,Spesifik Umum,2
+B341-2,Spesifik Umum,2
+A342-1,Spesifik Umum,c
+A342-2,Spesifik Umum,1
+B342-1,Spesifik Umum,2
+A343-1,Spesifik Umum,1
+A343-2,Spesifik Umum,1
+B343-1,Spesifik Umum,2
+B343-2,Spesifik Umum,2
+B344-1,Spesifik Umum,2
+B344-2,Spesifik Umum,2
+A345-1,Spesifik Umum,1
+A345-2,Spesifik Umum,1
+B345-1,Spesifik Umum,2
+A346-1,Spesifik Umum,1
+B346-1,Spesifik Umum,2
+A347-1,Spesifik Umum,1
+A347-2,Spesifik Umum,1
+B347-1,Spesifik Umum,2
+B347-2,Spesifik Umum,2
+B347-3,Spesifik Umum,2
+A348-1,Spesifik Umum,1
+A348-2,Spesifik Umum,1
+A349-1,Spesifik Umum,1
+A349-2,Spesifik Umum,1
+A349-3,Spesifik Umum,1
+A349-4,Spesifik Umum,1
+B349-1,Spesifik Umum,2
+B349-2,Spesifik Umum,2
+B349-3,Spesifik Umum,2
+A350-1,Spesifik Umum,1
+A350-2,Spesifik Umum,1
+A350-3,Spesifik Umum,1
+B350-1,Spesifik Umum,2
+A351-1,Spesifik Umum,1
+A351-2,Spesifik Umum,1
+A351-3,Spesifik Umum,1
+B351-1,Spesifik Umum,2
+B351-2,Spesifik Umum,2
+B351-3,Spesifik Umum,2
+B351-4,Spesifik Umum,2
+A352-1,Spesifik Umum,1
+A352-2,Spesifik Umum,1
+B353-1,Spesifik Umum,2
+B354-1,Spesifik Umum,2
+B354-2,Spesifik Umum,2
+B354-3,Spesifik Umum,2
+B354-4,Spesifik Umum,2
+B352-5,Spesifik Umum,
+A355-1,Spesifik Umum,1
+B355-1,Spesifik Umum,2
+B355-2,Spesifik Umum,2
+B356-1,Spesifik Umum,2
+B356-2,Spesifik Umum,2
+A357-1,Spesifik Umum,1
+A357-2,Spesifik Umum,1
+A357-3,Spesifik Umum,1
+B357-1,Spesifik Umum,2
+B401,Spesifik Khusus,2
+B402,Spesifik Khusus,2
+B403,Spesifik Khusus,2
+B404,Spesifik Khusus,2
+B405,Spesifik Khusus,2
+B406,Spesifik Khusus,2
+B407,Spesifik Khusus,2
+B408,Spesifik Khusus,2
+B409,Spesifik Khusus,2
+B410,Spesifik Khusus,2
+B411,Spesifik Khusus,2
+B412,Spesifik Khusus,2
+B413,Spesifik Khusus,2
+B414,Spesifik Khusus,2
+B415,Spesifik Khusus,2
+B416,Spesifik Khusus,2
+B417,Spesifik Khusus,2
