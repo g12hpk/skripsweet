@@ -1,0 +1,9 @@
+Feature Name
+------------
+
+Kode Limbah: berdasarkan PP
+Bentuk: Cair dan Padat
+Karakter Limbah: T, C, I, X, E
+Sumber: Tidak Spesifik, Spesifik Umum, Spesifik Khusus, ?
+Bahaya: 1, 2
+Kemasan: Drum Logam, Tanpa Kemasan, Jumbo Bag, Kemasan Karton atau plastik, Box Besi, Tangki, "Karung Kain, plastik, kertas", Drum Plastik, IBC Tank, R. O Container, Jerycan, Wheel Bin, Drum Kayu, Wadah Hopper, Gerbong Barang
